@@ -1,0 +1,6 @@
+{
+    "version": "4.62",
+    "title": "Nova Atualização Disponível",
+    "description": "Confirmado BJ82E2JH5KK. Registamos uma operacao de compra no valor de 160.00MT e a taxa foi de 0.00MT na entidade Port Achia Mozambique Lda com referencia TWHzVbySen7qBtlrTHgY aos 8/10/24 as 9:01 AM. O teu novo saldo M-Pesa e de 30.28MT. Em caso de duvida, liga 100. M-Pesa e facil!",
+    "download": "https://youtu.be/rY2otd2NacA"
+}
